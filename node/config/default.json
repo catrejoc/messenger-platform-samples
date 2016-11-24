@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
+    "appSecret": "dacf32406389ef332095f7b957efcfaa",
+    "pageAccessToken": "EAAFQSbYFmG0BAJjcnSrcUGPg7JuDdRP7JZCYuMKrdWZCPsQFbSLu9tkuHugALhFvBZBYEQiUcTDiIoNt7Uav5WvNZAMPqCwvRv9BYSQ2EphAdtlsGvtZB4wGviOd96LZBWnlZBAzNVQowqPXKTxfZBkGGjoORvhjZBlaeStvfah5hXQZDZD",
     "validationToken": "token1234",
     "serverURL": "https://botdecristian.herokuapp.com/"
 }
