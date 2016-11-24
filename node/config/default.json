@@ -1,6 +1,6 @@
 {
     "appSecret": "",
     "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "validationToken": "token1234",
+    "serverURL": "https://botdecristian.herokuapp.com/"
 }
